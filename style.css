@@ -1,0 +1,113 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1300px;
+    margin: auto;
+}
+
+.yar1 {
+    text-align: center;
+    display: inline-block;
+    padding: 36px 491px;
+    background-color: #FFDA57;
+    border-radius: 1000px;
+    margin-bottom: 77px;
+}
+
+.yar3 {
+    text-decoration: none;
+    color: #131313;
+    font-size: 32px;
+}
+
+.covid {
+    width: 640px;
+    background-color: #26C5DA;
+    padding: 60px 172px 60px 170px;
+    vertical-align: middle;
+    border-radius: 25px;
+    color: #FFFFFF;
+    margin: auto;
+}
+
+.cov19 {
+    margin-top: 32px;
+    margin-bottom: 24px;
+    font-size: 64px;
+}
+
+.covid-19 {
+    font-size: 18px;
+}
+
+.pov {
+    font-size: 24px;
+}
+
+.otsivi {
+    font-size: 64px;
+}
+
+.maryna {
+    width: 421px;
+    display: inline-block;
+    background-color: #F7F7F7;
+    margin-top: 42px;
+    border-radius: 25px;
+    padding: 24px;
+    margin-right: 15px;
+}
+
+.matvey {
+    width: 420px;
+    background-color: #F7F7F7;
+    display: inline-block;
+    margin-top: 42px;
+    border-radius: 25px;
+    padding: 24px 23px 28px 24px;
+    margin-right: 15px;
+}
+
+.povelitel {
+    width: 420px;
+    background-color: #F7F7F7;
+    display: inline-block;
+    margin-top: 42px;
+    border-radius: 25px;
+    padding: 24px 23px 40px 24px;
+}
+
+.yar4 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.yar5 {
+    vertical-align: middle;
+    margin-right: 12px;
+}
+
+.yar6 {
+    text-align: center;
+    width: 1299px;
+    border: 2px solid #FFDA57;
+    padding-top: 36px;
+    padding-bottom: 36px;
+    border-radius: 1000px;
+    margin-top: 40px;
+}
+
+.yar2 {
+    text-decoration: none;
+    font-weight: 200px;
+    font-size: 32px;
+    color: #131313;
+}
+
+.yar7 {
+    margin-top: 20px;
+}
