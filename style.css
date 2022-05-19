@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.yesorno{
+    margin-bottom: 35px;
+    width: 1300px;
+    height: 137px;
+    border: 3px solid #26C5DA;
+    border-radius: 25px;
+    font-size: 36px;
+    padding: 50px 54px 43px 56px;
+}
+
+.yesorno>img{
+    vertical-align: middle;
+}
+
+.formh1{
+    font-size: 64px;
+    padding: 0 16px 0 0;
+}
+
+.formp{
+    font-size: 24px;
+    color: #26C5DA;
+}
+
+label{
+    float: right;
+    cursor: pointer;
+}
+
+input{
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+}
+
+.yes{
+    margin-left: 50px;
+}
+
+input:checked + .radio{
+    background-color: #FFDA57;
+    box-shadow: inset 0 0 2px 2px #fff;
+}
+
+.radio{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: black 1px solid;
+    border-radius: 25px;
+    vertical-align: middle;
+}
