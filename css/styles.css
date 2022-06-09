@@ -155,6 +155,20 @@ h3 {
     position: absolute;
 }
 
+.radio-no {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid black;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+input:checked+.radio-no {
+    background-color: #ffc904
+}
+
 .radio {
     display: inline-block;
     width: 30px;
@@ -223,6 +237,11 @@ input:checked+.radio {
     color: #FFFFFF;
     margin: auto;
     text-align: center;
+}
+
+.covid-wrap {
+    width: 640px;
+    margin: auto;
 }
 
 .pov {
@@ -504,6 +523,9 @@ main {
     }
     nav ul {
         display: none;
+    }
+    .covid-wrap {
+        width: 90%;
     }
 }
 
